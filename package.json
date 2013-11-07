@@ -1,0 +1,17 @@
+{
+  "name": "node-ev3-tank",
+  "version": "0.1.0",
+  "description": "Control an ev3 robot tank with node",
+  "main": "index.js",
+  "keywords": [
+    "ev3",
+    "robot",
+    "lego"
+  ],
+  "author": "Andrew Nesbitt",
+  "license": "MIT",
+  "dependencies": {
+    "ev3-nodejs-bt": "0.0.2",
+    "xbox-controller": "~0.3.0"
+  }
+}
